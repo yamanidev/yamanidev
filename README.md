@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
+From: 15 February 2024 - To: 22 February 2024
+
 TypeScript   11 hrs 39 mins  ████████████████▓░░░░░░░░   66.38 %
 Astro        4 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
 HTML         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
