@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   11 hrs 39 mins  ████████████████▓░░░░░░░░   66.38 %
+Astro        4 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
+HTML         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JavaScript   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+```
+
 <!--END_SECTION:waka-->
