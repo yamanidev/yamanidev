@@ -1,5 +1,5 @@
 # I build web interfaces.
-A non-comprehensive list of technologies I work with:
+A non-exhaustive list of technologies I work with:
 - JavaScript/TypeScript
 - React/Next.js
 - Tailwind CSS (big fan)
