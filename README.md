@@ -5,7 +5,6 @@ A non-exhaustive list of technologies I work with:
 - Tailwind CSS (big fan)
 - Axios and React Query for asynchronous state management
 
-## I write, sometimes.
 Check out my [blog](https://mohamedyamani.com/blog/) where I teach what I learn and share some anecdotes of my journey.
 
 ## Connect with me
