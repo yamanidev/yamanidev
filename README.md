@@ -1,10 +1,11 @@
-# I build web experiences and write about it online.
+# I build web experiences
 A non-exhaustive list of technologies I work with:
 - JavaScript/TypeScript
 - React/Next.js
 - Tailwind CSS (big fan)
 - Axios and React Query for asynchronous state management
 
+# and write about it online
 Check out my [blog](https://mohamedyamani.com/blog/) where I teach what I learn and share some anecdotes of my journey.
 
 ## Connect with me
