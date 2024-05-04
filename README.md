@@ -1,4 +1,4 @@
-# I build web interfaces.
+# I build web experiences and write about it online.
 A non-exhaustive list of technologies I work with:
 - JavaScript/TypeScript
 - React/Next.js
